@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PathMenuLayout">
+        <!--菜单半径-->
+        <attr name="PathMenuRadius" format="dimension" />
+        <!--菜单弹出时间-->
+        <attr name="PathMenuPopupTime" format="integer" />
+        <!--菜单之间的间隙角度-->
+        <attr name="PathMenuItemIntervalAngle" format="integer" />
+        <!--菜单是否旋转打开-->
+        <attr name="PathMenuIsRotate" format="boolean" />
+    </declare-styleable>
+</resources>
